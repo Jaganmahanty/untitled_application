@@ -88,7 +88,7 @@ class _Home_PageState extends State<Home_Page> {
                       pwdController.text.toString());
                   print("result");
                 },
-                child: const Text("Insert"),
+                child: const Text("Submit"),
               ),
             )
           ],
